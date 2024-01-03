@@ -5,6 +5,9 @@ div{
     margin-bottom: 20px;
 }
 div h3{
-    text-align: center;
+    text-align:right;
     
+}
+div p{
+    text-align:justify;
 }
